@@ -1,4 +1,4 @@
-# Analization and Visualization on Blockchain Decentralization, Prediction on foreign direct investment in China based on previous data
+# Analyzing the Foreign Direct Investment’s effect on domestic saving in China using a Machine Learning approach
 
 ## Project information
 * Author: Tianji Sun, Data Science students from class of 2024, Duke Kunshan University
@@ -8,6 +8,10 @@
 * Project Summary:  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; Project 1: Machine Learning for Explanation:
 Based on professor Luyao Zhang's Blockchain Decentralization research, this project guide us to query, process and visualize the decentralization index of three token "Aave", "Comp", and "Lusd".&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Project 2: Machine Learning for Prediction:
 In this project, I have used world bank data on direct foreign investment in China to predict future foreign  direct investments. Using the demo code's given algorithms and additional KNN MLP regression I can deeply analyze the data set.
+
+## Project Summary
+* Background and motivation
+In the globalized economy, Foreign direct investments (FDI) are shifting economical structures. Since the Reform and Opening up, foreign companies and investors are allowed to take part in China’s economy. And they have since then made an impact on China’s economic structure. From Zhang’s(2001) study, FDI will be increasing in China for the foreseeable future, and the increase in FDI will decrease domestic savings in China. As viewing data from 2001 to 2020, FDI in China has increased yearly. In this research, I aim to use historical FDI data from China to analyze its correlation with domestic savings.
 
 ## Table of content
 | Tables        | Content                                                |
