@@ -1,47 +1,60 @@
-# Title [How to Choice a Good Title?](https://www.nature.com/articles/s41562-021-01152-2)
+# Analization and Visualization on Blockchain Decentralization, Prediction on foreign direct investment in China based on previous data
+
 ## Project information
-- **Author**: [First Name][Last Name], [Major], [Class], Duke Kunshan University
-- **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
-- **Disclaimer**: Submissions to the Final Project for [STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-[notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
-- **Project Summary**: 
-  - [Summarize the Background/Motivation]
-  - [Research Questions]
-  - [Application Scenario (Data Source)]
-  - [Methodology]
-  - [Results]
-  - [Intellectual Merits and Practical impacts of your project.]
+* Author: Tianji Sun, Data Science students from class of 2024, Duke Kunshan University
+* Instructor: Prof: Luyao Zhang, Duke Kunshan University
+* Disclaimer: Submissions to the Problem Set 2 for STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second) instructed by Prof. Luyao Zhang at Duke Kunshan University.
+* Acknowlegement: Prof. Luyao Zhang guided the entire project through. Xin Ma (helped with the VM set up)
+* Project Summary:  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; Project 1: Machine Learning for Explanation:
+Based on professor Luyao Zhang's Blockchain Decentralization research, this project guide us to query, process and visualize the decentralization index of three token "Aave", "Comp", and "Lusd".&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Project 2: Machine Learning for Prediction:
+In this project, I have used world bank data on direct foreign investment in China to predict future foreign  direct investments. Using the demo code's given algorithms and additional KNN MLP regression I can deeply analyze the data set.
 
-## Table of Contents
-- data
-- code
-- spotlight
-- more about the author
-- references
+## Table of content
+| Tables        | Content                                                |
+| ------------- |:-------------:                                     |
+| Data    | Queried and Processed Data for both projects |
+| Code     | Query, Process, and Annalyze Data|
+| Spotlight | figures generated from the two parts of the project|  
 
-
-
-## Data
-- Data Source:
-- Queried Data
-- Processed Data
-- ...
 
 
 ## Code
-- Query Data
-- Process Data
-- Analyze Data
-- ...
+| Tables        | URL                                                |
+| ------------- |:-------------:                                     |
+| Explanation Queey and Process Data     | https://github.com/Alexsun12/portfolio-/blob/main/Problem%20set%202/Code/Explanation/Query%20and%20Processed%20Data.ipynb |
+| Explanation Analyze Data     | https://github.com/Alexsun12/portfolio-/blob/main/Problem%20set%202/Code/Explanation/Analyze%20Data(Visualization).ipynb |
+| Prediction Query and Process data (Part 1) | https://github.com/Alexsun12/portfolio-/blob/main/Problem%20set%202/Code/Prediction/Query_and_Process_Data.ipynb|  
+| Prediction Analyze data (Part 2) |https://github.com/Alexsun12/portfolio-/blob/main/Problem%20set%202/Code/Prediction/Analyze_Data.ipynb |  
+
+
 
 ## Spotlight
-- Posters
-- Figures
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+#### For Machine Learning for Explanation
+![image](https://user-images.githubusercontent.com/117652452/205329125-1f3cdb5f-104a-42a8-b8e2-78a8b41f8197.png)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; figure 1. the Aave token decentralization index heatmap
+
+![image](https://user-images.githubusercontent.com/117652452/205329480-afd763b9-2e38-42c8-ad70-831d9514931b.png)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; figure 2. the Comp token decentralization index heatmap
+
+![image](https://user-images.githubusercontent.com/117652452/205330578-dc5550ae-2570-4d89-a632-4741e346d4f9.png)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; figure 3. the Lusd token decentralization index heatmap
+
+In the Machine Learning for explanation part, I have used the heat map to generate the dencentrilization index of the three tokens (Aave, Comp, Lusd) The x axis is the date and the y axis is the value. In the graph we can more directly see how centrized each token are. From the graphs we can see that each token are getting more decentralized by time.
+
+Acknowlegdement: 
+
+data source: https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/Data_TokenIndex
+
+code source: https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/code/Top_DeFi_Decentralization_Visualizations.ipynb
+
+heatmap generated by plotly, data are aquired and generated from SoK: Blockchain Decentralization (https://arxiv.org/abs/2205.04256)
+Using heatmap to map the data set is inspired by Kroon Isabella's readme file
+           
+#### For prediction:
+![image](https://user-images.githubusercontent.com/117652452/205502912-f0c3403e-1b3c-4acd-8ccc-0c35407e476d.png)
+A confusion matrix present a table that is used to define the performance of a classification algorithm. A confusion matrix visualizes and summarizes the performance of a classification algorithm.(https://www.sciencedirect.com/topics/engineering/confusion-matrix)
+![image](https://user-images.githubusercontent.com/117652452/205506979-001cd299-b407-47e3-a274-01eca0581dff.png)
+results generated by the KNN regression. KNN regression approximates the association between independent variables and the continuous outcome by averaging the observations in the same neighbourhood(https://bookdown.org/tpinto_home/Regression-and-Classification/k-nearest-neighbours-regression.html). Using this algorithm I can see the association of time and the DFI data.
 
 ## More about the Author
 - headshot
