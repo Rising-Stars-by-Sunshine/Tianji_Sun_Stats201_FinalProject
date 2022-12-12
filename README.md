@@ -19,8 +19,8 @@ In the globalized economy, Foreign direct investments (FDI) are shifting economi
 ## Table of content
 | Tables        | Content                                                | 
 | ------------- |:-------------:                                     |
-| Data    | The World Bank Data |
-| Code     | Query, Process, and Annalyze Data|
+| Data    | source: The World Bank Data  processed data: https://github.com/Rising-Stars-by-Sunshine/Tianji_Sun_Stats201_FinalProject/tree/main/data |
+| Code     | Query, Process, and Annalyze Data |
 | Spotlight | Poster, Generated results|  
 
 
