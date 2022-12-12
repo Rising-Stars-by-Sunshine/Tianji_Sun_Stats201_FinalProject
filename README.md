@@ -12,7 +12,7 @@ In the globalized economy, Foreign direct investments (FDI) are shifting economi
 * **Research Questions:** Is the increase in foreign direct investment correlated with changes in domestic saving? 
 * **Application Scenario:**
 * **Methodology:** In this project, machine learning algorithms will be applied to explore the relationship between foreign direct investment and domestic savings. The algorithms I will use include a decision tree, random forest, multi-layer classifier, and Auto-ML. The given data on FDI is based on the FDI’s percentage of GDP. By multiplying the FDI percentage by China's GDP we can have the gross FDI for analyzation. 
-* **Expected Results: ** From this research, I expect to find China’s domestic savings changes to be negatively correlated with China’s foreign direct investments.
+* **Expected Results:** From this research, I expect to find China’s domestic savings changes to be negatively correlated with China’s foreign direct investments.
 * **Interlecture merits**
   Previous studies regarding foreign direct investments focus mainly on GDP growth and foreign relationships because most studies in this area are published more than five years ago. these studies lack analysis using machine learning models. While applying machine learning models in finance is common, it is not in analyzing regional developments. By applying new algorithms and recent data, I can prove theories and predictions made by previous researchers. This method opens up possibilities to increase the accuracy of future predictions. 
 
