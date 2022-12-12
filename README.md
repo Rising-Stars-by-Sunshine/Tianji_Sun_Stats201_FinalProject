@@ -81,9 +81,28 @@ The author Tianji Sun is a Duke Kunshan University  data science student in clas
 ### Articles
 - Article Source Title and URL
 ### Literature
-- Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
+*****Bibliography:
 
-Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
+Abusomwan, Success, and Jessy Ezebuihe. 2017. “Gross Domestic Savings and Gross Capital: What Matters to Their Formation in an Era of Economic Regression in Nigeria?” Oradea Journal of Business and Economics 2 (2): 45–55. https://doi.org/10.47535/1991ojbe026.
+
+Aqeel, Anjum, and Mohammed Nishat. 2004. “The Determinants of Foreign Direct Investment in Pakistan.” The Pakistan Development Review 43 (4II): 651–64. https://doi.org/10.30541/v43i4iipp.651-664.
+
+Aziz, Saqib, Michael Dowling, Helmi Hammami, and Anke Piepenbrink. 2022. Machine Learning in Finance: A Topic Modeling Approach. St. Louis: Federal Reserve Bank of St Louis. doi:https://doi.org/10.1111/eufm.12326. https://login.proxy.lib.duke.edu/login?url=https://www.proquest.com/working-papers/machine-learning-finance-topic-modeling-approach/docview/2683838187/se-2.
+
+Bayar, Yılmaz. 2014. “Financial Development and Domestic Savings in Emerging Asian Countries.” Theoretical and Applied Economics XXI (7): 55–66. https://doaj.org/article/18bd7423034a4a7c91cb78642cd5e0ca.
+
+Berthelemy, J.-C., & Demurger, S. (2000). Foreign Direct Investment and Economic Growth: Theory and Application to China. Review of Development Economics, 4(2), 140–155. https://doi.org/10.1111/1467-9361.00083
+
+Blonigen, Bruce A., and Jeremy Piger. 2014. “Determinants of Foreign Direct Investment.” Canadian Journal of Economics/Revue Canadienne D’économique 47 (3): 775–812. https://doi.org/10.1111/caje.12091.
+
+China Economic Review, "China Becomes Top Global Destination for Foreign Direct Investment." 2015. - Daily Briefings, Jan 30. https://login.proxy.lib.duke.edu/login?url=https://www.proquest.com/magazines/china-becomes-top-global-destination-foreign/docview/1775327096/se-2.
+
+Zhang, Luyao. 2022. “Machine Learning for Social Science: Match the Right Tool to the Job.” Whimsical. 2022. https://whimsical.com/machine-learning-for-social-science-match-the-right-tool-to-the--8zuA7Bg5bYQPkRgMJCoywA.
+
+Zhang, Luyao. 2022a. “Machine Learning for Social Science.” Machine Learning for Social Science. https://ms.pubpub.org/.
+———. 2022. “Machine Learning for Predictions.” Machine Learning for Social Science, November. https://ms.pubpub.org/pub/ml-prediction/release/3.
+
+Zhang, K. H. (2001). How does foreign direct investment affect economic growth in China? The Economics of Transition, 9(3), 679–693. https://doi.org/10.1111/1468-0351.00095
 
 ```
 @article{levin2022bridging,
