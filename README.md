@@ -90,17 +90,3 @@ Zhang, Luyao. 2022a. “Machine Learning for Social Science.” Machine Learning
 ———. 2022. “Machine Learning for Predictions.” Machine Learning for Social Science, November. https://ms.pubpub.org/pub/ml-prediction/release/3.
 
 Zhang, K. H. (2001). How does foreign direct investment affect economic growth in China? The Economics of Transition, 9(3), 679–693. https://doi.org/10.1111/1468-0351.00095
-
-```
-@article{levin2022bridging,
-  title={Bridging level-k to nash equilibrium},
-  author={Levin, Dan and Zhang, Luyao},
-  journal={Review of Economics and Statistics},
-  volume={104},
-  number={6},
-  pages={1329--1340},
-  year={2022},
-  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
-}
-```
-
