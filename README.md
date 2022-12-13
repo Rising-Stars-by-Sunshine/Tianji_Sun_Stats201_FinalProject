@@ -56,7 +56,6 @@ A confusion matrix present a table that is used to define the performance of a c
 ![image](https://user-images.githubusercontent.com/117652452/206921127-d87279c7-1e7c-4493-9797-9cb7a86574a6.png)
 - self-introduction
 The author Tianji Sun is a Duke Kunshan University  data science student in class of 2024. His interest lies in applying data analysis and new tools to social problems such as environmental issues, gender inequalities etc.
-- Final reflections 
 
 
 ## References
