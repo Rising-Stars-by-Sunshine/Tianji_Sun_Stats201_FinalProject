@@ -35,7 +35,7 @@ In the globalized economy, Foreign direct investments (FDI) are shifting economi
 
 ## Spotlight
 #### Research Sumary Poster
-![image](https://user-images.githubusercontent.com/117652452/207103735-c93b4573-09bd-4049-a65d-288a3a344ff2.png)
+![image](https://user-images.githubusercontent.com/117652452/207292589-5fa3e985-10d1-43ec-9c01-400963e9b4f0.png)
 produced by Canva
 
 #### For Machine Learning Algorithms
