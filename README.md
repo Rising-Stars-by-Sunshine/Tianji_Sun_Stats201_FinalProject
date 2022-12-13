@@ -1,4 +1,4 @@
-# Analyzing the Foreign Direct Investment’s effect on domestic saving in China using a Machine Learning approach
+# Analyzing the Foreign Direct Investment’s effect on Domestic Saving in China with a Machine Learning Approach
 
 ## Project information
 * **Author**: Tianji Sun, Data Science students from class of 2024, Duke Kunshan University
