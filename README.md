@@ -57,7 +57,8 @@ A confusion matrix present a table that is used to define the performance of a c
 ![image](https://user-images.githubusercontent.com/117652452/206921127-d87279c7-1e7c-4493-9797-9cb7a86574a6.png)
 - self-introduction
 The author Tianji Sun is a Duke Kunshan University  data science student in class of 2024. His interest lies in applying data analysis and new tools to social problems such as environmental issues, gender inequalities etc.
-
+- final-reflection
+    During this research, I have gained a lot of important skills and experiences. From this research, I have learned about different aspects of machine learning, and I have gained invaluable experiences in the mindset of doing research. There are parts of this research that I need to reflect upon. For the literature review, the literature I can find related to this topic is relatively outdated, most research related to domestic saving are published in the 1990s and 2000s. Due to this reason, I can’t find any literature that applies machine learning to this causal inference topic. There are many existing types of research and literature on applying machine learning to finance, and social science, but there is limited research regarding this topic. Without previous research, it is harder to determine the quality of the results.  Also, for the machine learning algorithms to work better, I believe I have to use bigger data sets. The data sets I used have 40 years of annual data, but it wasn’t enough for both training and testing. To achieve optimal results, more data is required. For future research, it is important to see if the data sets are fit for the algorithms. In conclusion, for future research, I should find areas with more existing research and be prepared for unexpected results.
 
 ## References
 
@@ -67,7 +68,7 @@ The author Tianji Sun is a Duke Kunshan University  data science student in clas
 - [https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/code/Top_DeFi_Decentralization_Visualizations.ipynb](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction/blob/main/code/Analyze_Data_Machine_Learning_for_Predicting_Market_Congestion.ipynb)
 - https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction/blob/main/code/Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb
 ### Literature
-*****Bibliography:
+***** Bibliography:
 
 Abusomwan, Success, and Jessy Ezebuihe. 2017. “Gross Domestic Savings and Gross Capital: What Matters to Their Formation in an Era of Economic Regression in Nigeria?” Oradea Journal of Business and Economics 2 (2): 45–55. https://doi.org/10.47535/1991ojbe026.
 
