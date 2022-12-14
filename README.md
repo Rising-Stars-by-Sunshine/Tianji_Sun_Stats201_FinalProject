@@ -20,6 +20,8 @@ In the globalized economy, Foreign direct investments (FDI) are shifting economi
 * Data
 * Code
 * Spotlight
+* More on the Author
+* Reference
 
 
 ## Code
