@@ -1,6 +1,6 @@
 # Analyzing the Foreign Direct Investment’s effect on Domestic Saving in China with a Machine Learning Approach
 
-## Project information
+## Project Information
 * **Author**: Tianji Sun, Data Science students from class of 2024, Duke Kunshan University
 * **Instructor**: Prof: Luyao Zhang, Duke Kunshan University
 * **Disclaimer**: Submissions to the Final Project for STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second) instructed by Prof. Luyao Zhang at Duke Kunshan University.
