@@ -5,6 +5,7 @@
 * **Instructor**: Prof: Luyao Zhang, Duke Kunshan University
 * **Disclaimer**: Submissions to the Final Project for STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 * **Acknowlegement**: Prof. Luyao Zhang guided the entire project through， Xin Ma (helped with the VM set up)，Yutong Quan for the insigtful peer review.
+* **Github page**: https://alexsun12.github.io/
 
 ## Project Summary
 * **Background and motivation**
